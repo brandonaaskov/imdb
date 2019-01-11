@@ -1,2 +1,0 @@
-# imdb
-Created with CodeSandbox
