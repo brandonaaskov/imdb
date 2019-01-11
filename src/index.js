@@ -1,5 +1,3 @@
-require("dotenv").config();
-const _ = require("lodash");
 const express = require("express");
 const { getEpisodes } = require("./imdb");
 

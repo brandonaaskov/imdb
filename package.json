@@ -13,6 +13,9 @@
     "lodash": "4.17.11"
   },
   "devDependencies": {
+    "@types/dotenv": "6.1.0",
+    "@types/express": "4.16.0",
+    "@types/lodash": "4.14.119",
     "nodemon": "1.18.4"
   }
 }
